@@ -1,0 +1,7 @@
+C:\Users\asc\learnCS\Bruch\Bruch\bin\Debug\Bruch.exe.config
+C:\Users\asc\learnCS\Bruch\Bruch\bin\Debug\Bruch.exe
+C:\Users\asc\learnCS\Bruch\Bruch\bin\Debug\Bruch.pdb
+C:\Users\asc\learnCS\Bruch\Bruch\obj\Debug\Bruch.csproj.CoreCompileInputs.cache
+C:\Users\asc\learnCS\Bruch\Bruch\obj\Debug\Bruch.exe
+C:\Users\asc\learnCS\Bruch\Bruch\obj\Debug\Bruch.pdb
+C:\Users\asc\learnCS\Bruch\Bruch\obj\Debug\Bruch.csprojAssemblyReference.cache
